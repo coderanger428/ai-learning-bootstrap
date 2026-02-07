@@ -38,11 +38,11 @@ Projects must be completed sequentially.
 
 Project repositories use:
 
-ai-pXX-project-name
+ai-project-name
 
 Example:
 
-ai-p01-linear-regression
+ai-linear-regression
 
 ---
 
@@ -51,4 +51,3 @@ ai-p01-linear-regression
 - One active project at a time
 - Each project has its own repo
 - Each repo must contain a README
-- Each project ends with lessons learned
