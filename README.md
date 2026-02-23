@@ -7,9 +7,22 @@ Each item links to an independent repository.
 Projects must be completed sequentially.
 
 ## Technologies Used
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="48" style="display:inline-block;"/> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy" width="48" style="display:inline-block;"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="48" style="display:inline-block;"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy" width="48" style="display:inline-block;"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="48" style="display:inline-block;"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="48" style="display:inline-block;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
