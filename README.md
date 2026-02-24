@@ -57,13 +57,13 @@ Projects must be completed sequentially.
 ## Conventions
 
 Project repositories use:
-
+```text
 ai-project-name
-
+```
 Example:
-
+```text
 ai-linear-regression
-
+```
 ---
 
 ## Rules
